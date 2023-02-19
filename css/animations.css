@@ -1,0 +1,24 @@
+button{
+    background-color:black;
+    color: yellowgreen;
+    padding: 15px;
+    font-size: 10px;
+    transition-delay:1000ms;
+    transition-duration: 500ms;
+transition-property: all;
+
+}
+button:hover{
+    background-color: antiquewhite;
+ color: aqua;
+}
+ /*
+button:active{
+background-color: chocolate;
+color: red;
+}
+button:focus{
+    background-color: chartreuse;
+    color: hotpink;
+}
+*/

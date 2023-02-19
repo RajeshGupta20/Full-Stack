@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore xmlns="http://www.bookstore.com"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.bookstore.com bookstore.xsd">
+  
+  <book>
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <publisher>Charles Scribner's Sons</publisher>
+    <publicationDate>1925-04-10</publicationDate>
+    <price>9.99</price>
+  </book>
+  
+  <book>
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <publisher>J. B. Lippincott & Co.</publisher>
+    <publicationDate>1960-07-11</publicationDate>
+    <price>8.99</price>
+  </book>
+  
+</bookstore>
